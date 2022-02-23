@@ -1,0 +1,9 @@
+[package]
+name = "pi_compress"
+version = "0.1.0"
+authors = ["luob <luob@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lz4 = "*"
+libc = "*" 
