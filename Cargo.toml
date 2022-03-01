@@ -2,7 +2,11 @@
 name = "pi_compress"
 version = "0.1.0"
 authors = ["luob <luob@gmail.com>"]
-edition = "2018"
+edition = "2021"
+description = "通用压缩库"
+repository = "https://github.com/GaiaWorld/pi_compress"
+license = "MIT OR Apache-2.0"
+keywords = ["pi",  "compress"]
 
 [dependencies]
 lz4 = "*"
